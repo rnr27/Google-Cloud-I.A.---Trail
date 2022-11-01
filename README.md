@@ -9,7 +9,7 @@
 https://www.cloudskillsboost.google/quests/117
 
 
-**2 - Building and Deploying Machine Learning Solutions with Vertex AI**(25 Créditos)**
+**2 - Building and Deploying Machine Learning Solutions with Vertex AI(25 Créditos)**
 
 https://www.cloudskillsboost.google/quests/183
 
