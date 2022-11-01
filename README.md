@@ -28,8 +28,10 @@ https://www.cloudskillsboost.google/quests/136
 
 https://www.cloudskillsboost.google/quests/127
 
+**------------------------------------------------------------------------------------------**
 
-Procedure to Sign
+**Procedure to Sign**
+
 We request you to please follow the below redemption steps to get the benefits of the program:
 
 **1.** We suggest you to please use your personal system, clear cookies and logout from your qwiklabs account.
